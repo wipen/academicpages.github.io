@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am currently pursuing my doctoral studies in Health Policy and Management at Peking Union Medical College School of Health Policy and Management (2024-present), integrating my multidisciplinary background in software engineering, engineering management, and public health. With eight years of professional experience in digital healthcare, I have led cross-functional teams to implement AI solutions for clinical workflow optimization and population health management. My academic trajectory includes:
+
 • Part-time Master of Engineering Management from Tsinghua University's Department of Automation (2020-2024)
 
 • Advanced training in public health through Tsinghua's Health Capacity Enhancement Program (2022-2023)
