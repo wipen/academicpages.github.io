@@ -43,11 +43,13 @@ My work consistently bridges technical execution with strategic health system ob
 
 Publications
 ======
-[1] **Han, W.**, Yin, X., Wang, J., et al. Efficiency of large language models in answering questions about childhood asthma. Practical Journal of Clinical Medicine, 2024, 28(11): pp. 6-11+17.
+**Han, W.**, Lyu, X. Yang, J., et al. Can large language models replace standardised patients?, Medical Education, 2025.
 
-[2] **Han, W.**, Chen, S., Tang, R., et al. A New Framework of Health Care Quality Evaluation for Internet Diagnosis and Treatment. Chinese Journal of Health Informatics and Management, 2023, 20(6): pp. 912-918+926.
+**Han, W.**, Yin, X., Wang, J., et al. Efficiency of large language models in answering questions about childhood asthma. Practical Journal of Clinical Medicine, 2024, 28(11): pp. 6-11+17.
 
-[3] **Han, W.**, Lei, Y., Yin, X., et al. The Application and Prospects of Healthcare Big Data in Children Health Management. Chinese Journal of Health Informatics and Management, 2023, 20(4): pp. 501-507.
+**Han, W.**, Chen, S., Tang, R., et al. A New Framework of Health Care Quality Evaluation for Internet Diagnosis and Treatment. Chinese Journal of Health Informatics and Management, 2023, 20(6): pp. 912-918+926.
+
+**Han, W.**, Lei, Y., Yin, X., et al. The Application and Prospects of Healthcare Big Data in Children Health Management. Chinese Journal of Health Informatics and Management, 2023, 20(4): pp. 501-507.
 
 
 
