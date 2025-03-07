@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "M.D. candidate"
+title                    : "Weipeng Han"
 title_separator          : "-"
 name                     : &name "Weipeng Han 韩伟鹏"
 description              : &description "M.D. candidate, PUMC"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Weipeng Han"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.D. candidate in Health Policy and Management at PUMC, blending AI expertise, digital healthcare experience, and multidisciplinary research."
   location         : "Beijing"
   employer         : "Peking Union Medical College"
   uri              : # URL
