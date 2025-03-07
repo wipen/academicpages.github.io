@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "single"
+site_theme               : "default"
 title                    : "M.D. candidate"
 title_separator          : "-"
 name                     : &name "Weipeng Han 韩伟鹏"
