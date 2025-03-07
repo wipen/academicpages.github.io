@@ -63,7 +63,7 @@ Honors & Awards
 
 **2020**
 
-• Awarded Outstanding Contribution Award and Employee Excellence Honor by Haodf Online (China's leading medical consultation platform)
+• Awarded Outstanding Contribution Award and Employee Excellence Honor by Haodf Online (China's leading digital health platform)
 
 **2013**
 
