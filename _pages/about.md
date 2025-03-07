@@ -18,12 +18,16 @@ I am currently pursuing my doctoral studies in Health Policy and Management at P
 Work experience
 ======
 **August 2022 – July 2024**
-Research Assistant
-Center for Digital Healthcare Engineering, Department of Automation, Tsinghua University
+
+  Research Assistant
+
+  Center for Digital Healthcare Engineering, Department of Automation, Tsinghua University
 
 **July 2014 – August 2022**
-NLP Engineer
-Haodf Online
+
+  NLP Engineer
+
+  Haodf Online
 
 
 Skills
