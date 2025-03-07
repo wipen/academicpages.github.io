@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Weipeng Han PUMC"
+site_theme               : "single"
+title                    : "M.D. candidate"
 title_separator          : "-"
 name                     : &name "Weipeng Han 韩伟鹏"
 description              : &description "M.D. candidate, PUMC"
