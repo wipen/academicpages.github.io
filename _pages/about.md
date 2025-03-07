@@ -54,14 +54,19 @@ Publications
 Honors & Awards
 ======
 **2024**
-• Led team to win Third Prize at the National Smart Healthcare Insurance Competition with the project "Agent-based Optimized Healthcare Insurance Service System for Cross-regional Medical Care"
-• Received Merit Award as team leader at the 2nd National Digital Health Innovation Competition (Health Big Data Track)
+
+• Third Prize at the National Smart Healthcare Insurance Competition with the project "Agent-based Optimized Healthcare Insurance Service System for Cross-regional Medical Care"
+
+• Merit Award as team leader at the 2nd National Digital Health Innovation Competition (Health Big Data Track)
 
 **2020**
+
 • Awarded Outstanding Contribution Award and Employee Excellence Honor by Haodf Online (China's leading medical consultation platform)
 
 **2013**
+
 • Secured Second Prize at the North China Computer Applications Competition (Five Provinces & Hong Kong/Macao/Taiwan) for team innovation "Portable NFC Terminal Solution"
+
 • Recognized as University-level Outstanding Student Leader during undergraduate studies
 
 
