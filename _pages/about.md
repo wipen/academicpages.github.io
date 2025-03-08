@@ -6,9 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About Me
+======
+I am currently pursuing a doctoral degree in Health Policy and Management at Peking Union Medical College School of Health Policy and Management. My academic work integrates multidisciplinary knowledge from software engineering, engineering management, and public health. Beyond academics, I enjoy challenging physical activities like trail running, marathons, and tennis.
+
+With eight years of professional experience in digital healthcare, I have developed expertise in leading cross-functional teams. My focus has been implementing AI-driven solutions for clinical workflow optimization and population health management. Just as AI transforms healthcare data into actionable insights, my pursuits in sports transmute physical rigor into cognitive agility for healthcare innovation.
+
+
 Education
 ======
-I am currently pursuing my doctoral studies in Health Policy and Management at Peking Union Medical College School of Health Policy and Management (2024-present), integrating my multidisciplinary background in software engineering, engineering management, and public health. With eight years of professional experience in digital healthcare, I have led cross-functional teams to implement AI solutions for clinical workflow optimization and population health management. My academic trajectory includes:
+• Medical Doctor candidate from Peking Union Medical College School (2024-present)
 
 • Master of Engineering Management from Tsinghua University (2020-2024)
 
