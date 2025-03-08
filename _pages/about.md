@@ -17,7 +17,13 @@ I am currently pursuing my doctoral studies in Health Policy and Management at P
 
 Work experience
 ======
-**August 2022 – July 2024**
+**January 2024 – July 2024**
+
+  Research Assistant
+
+  Vanke School of Public Health, Tsinghua University
+  
+**August 2022 – January 2024**
 
   Research Assistant
 
@@ -63,7 +69,7 @@ Honors & Awards
 
 **2020**
 
-• Awarded Outstanding Contribution Award and Employee Excellence Honor by Haodf Online (China's leading digital health platform)
+• Awarded Outstanding Contribution Award and Employee Excellence Honor by Haodf Online
 
 **2013**
 
