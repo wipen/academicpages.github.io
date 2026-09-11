@@ -11,7 +11,7 @@ authors: "J. Chen, P. Gong, M. Hu, W. Han, H. Wang, P. Li, et al."
 citation: "J. Chen, P. Gong, M. Hu, W. Han, H. Wang, P. Li, et al. (2026). &quot;Deciphering public health policy affairs on urban greenspaces development: A decade of demand-side suggestions from China's two sessions system.&quot; <i>Cities</i>. 174, 107040."
 orcid: "0009-0004-5701-7230"
 orcid_putcode: 217479937
-orcid_synced: 2026-09-10
+orcid_synced: 2026-09-11
 ---
 
 <!-- BEGIN ORCID SYNC -->
@@ -21,5 +21,5 @@ orcid_synced: 2026-09-10
 
 **DOI:** [10.1016/j.cities.2026.107040](https://doi.org/10.1016/j.cities.2026.107040)
 
-<sub>Auto-synced from [ORCID](https://orcid.org/0009-0004-5701-7230) on 2026-09-10. Edit this record in ORCID; changes appear here within a day.</sub>
+<sub>Auto-synced from [ORCID](https://orcid.org/0009-0004-5701-7230) on 2026-09-11. Edit this record in ORCID; changes appear here within a day.</sub>
 <!-- END ORCID SYNC -->
